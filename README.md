@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mandaphm
+- 👋 Hi, I’m Mandala Pham!
 - 👀 I’m interested in glaciology
 - 🌱 I’m currently learning numerical modeling
 - 💞️ I’m looking to collaborate on open-source research projects
-- 📫 How to reach me via email at mandaphm@gmail.com
+- 📫 How to reach me: via email at mandaphm@gmail.com
